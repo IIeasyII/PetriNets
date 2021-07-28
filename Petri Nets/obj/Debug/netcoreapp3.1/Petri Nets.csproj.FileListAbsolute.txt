@@ -1,0 +1,41 @@
+D:\Visual Studio\Petri Nets\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.exe
+D:\Visual Studio\Petri Nets\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.deps.json
+D:\Visual Studio\Petri Nets\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.runtimeconfig.json
+D:\Visual Studio\Petri Nets\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.runtimeconfig.dev.json
+D:\Visual Studio\Petri Nets\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.dll
+D:\Visual Studio\Petri Nets\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.pdb
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.csprojAssemblyReference.cache
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.MainForm.resources
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.csproj.GenerateResource.cache
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.AssemblyInfoInputs.cache
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.AssemblyInfo.cs
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.dll
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.pdb
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.genruntimeconfig.cache
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.Controls.DragPanel.resources
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.exe
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.deps.json
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.runtimeconfig.json
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.runtimeconfig.dev.json
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.dll
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\bin\Debug\netcoreapp3.1\Petri Nets.pdb
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.csprojAssemblyReference.cache
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.Controls.DragPanel.resources
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.MainForm.resources
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.csproj.GenerateResource.cache
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.AssemblyInfoInputs.cache
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.AssemblyInfo.cs
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.dll
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.pdb
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri Nets.genruntimeconfig.cache
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.PlaceForm.resources
+D:\Visual Studio\Petri Nets - Copy\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.Properties.Resources.resources
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.PlaceForm.resources
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.Properties.Resources.resources
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.TransitionForm.resources
+D:\Visual Studio\Petri Nets\Petri Nets\bin\Debug\netcoreapp3.1\ru\Petri Nets.resources.dll
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.MainForm.ru.resources
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\ru\Petri Nets.resources.dll
+D:\Visual Studio\Petri Nets\Petri Nets\obj\Debug\netcoreapp3.1\Petri_Nets.Options.resources
